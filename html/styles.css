@@ -1,0 +1,13 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+h2 {
+  color: violet;
+}
+a:hover {
+  box-shadow: 5px 5px grey;
+  color: red;
+}
